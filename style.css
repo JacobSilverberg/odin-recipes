@@ -1,0 +1,15 @@
+* {
+    background-color: aqua;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    background-color: magenta;
+    color: red;
+    font-weight: bold;
+}
+
+ol {
+    font-style: italic;
+}
